@@ -1,0 +1,7 @@
+Statement: 
+
+each student has contributed to the project equally by implementing each of the parts individually. After individual implementation, we just compared the results, and have taken the best of the implementations. 
+
+However, Nursultan has contributed more to the report of first two sections, and Yerzhan has contributed more to the last section of tasks.
+
+Link to kaggle: https://www.kaggle.com/yerzhantolysbek
